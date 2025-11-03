@@ -22,13 +22,13 @@ const projects = [
   },
   {
     id: 2,
-    title: "QTripDynamic",
+    title: "Calmly 1.0",
     description:
-      "QTrip is a travel website aimed at travellers looking for a multitude of adventures in different cities.",
-    image: "/projects/project2.png",
-    tags: ["HTML", "CSS", "JavaScript", "Bootstrap", "REST APIs"],
-    demoUrl: "https://qtrip-dynamic-nine-tau.vercel.app/",
-    githubUrl: "https://github.com/Shashankmangal1/QTripDynamic",
+      "Discover how our AI-powered platform revolutionizes mental health support with cutting-edge technology and unwavering privacy protection.",
+    image: "/projects/project3.png",
+    tags: ["JavaScript", "React.js", "Next.js", "Node.js", "Express.js", "MongoDB", "Render", "Vercel"],
+    demoUrl: "#",
+    githubUrl: "https://github.com/Shashankmangal1/Calmly1.0",
   }
 ];
 
