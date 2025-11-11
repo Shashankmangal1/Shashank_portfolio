@@ -21,7 +21,7 @@ const projects = [
     githubUrl: "https://github.com/Shashankmangal1/QTripDynamic",
   },
   {
-    id: 2,
+    id: 3,
     title: "Calmly 1.0",
     description:
       "Discover how our AI-powered platform revolutionizes mental health support with cutting-edge technology and unwavering privacy protection.",
