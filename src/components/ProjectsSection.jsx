@@ -26,7 +26,7 @@ const projects = [
     description:
       "Discover how our AI-powered platform revolutionizes mental health support with cutting-edge technology and unwavering privacy protection.",
     image: "/projects/project3.png",
-    tags: ["JavaScript", "React.js", "Next.js", "Node.js", "Express.js", "MongoDB", "Render", "Vercel"],
+    tags: ["JavaScript", "React.js", "Next.js", "Inngest", "Gemini API", "Express.js", "MongoDB", "Render", "Vercel"],
     demoUrl: "https://calmly1-0-git-main-shashanks-projects-325217d1.vercel.app/",
     githubUrl: "https://github.com/Shashankmangal1/Calmly1.0",
   }
