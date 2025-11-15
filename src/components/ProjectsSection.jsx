@@ -1,11 +1,15 @@
 import { ArrowRight, ExternalLink, Github } from "lucide-react";
 
+import project1 from "../assets/projects/project1.png";
+import project2 from "../assets/projects/project2.png";
+import project3 from "../assets/projects/project3.png";
+
 const projects = [
   {
     id: 1,
     title: "QuickBlog",
     description: "A Web Application where user can read and write Blogs on different categories.",
-    image: "/projects/project1.png",
+    image: project1,
     tags: ["React", "TailwindCSS", "MongoDB", "Node.js", "Express.js", "ImageKit", "Vercel"],
     demoUrl: "https://quick-blog-gamma-three.vercel.app/",
     githubUrl: "https://github.com/Shashankmangal1/QuickBlog",
@@ -15,7 +19,7 @@ const projects = [
     title: "QTripDynamic",
     description:
       "QTrip is a travel website aimed at travellers looking for a multitude of adventures in different cities.",
-    image: "/projects/project2.png",
+    image: project2,
     tags: ["HTML", "CSS", "JavaScript", "Bootstrap", "REST APIs"],
     demoUrl: "https://qtrip-dynamic-nine-tau.vercel.app/",
     githubUrl: "https://github.com/Shashankmangal1/QTripDynamic",
@@ -25,7 +29,7 @@ const projects = [
     title: "Calmly 1.0",
     description:
       "Discover how our AI-powered platform revolutionizes mental health support with cutting-edge technology and unwavering privacy protection.",
-    image: "/projects/project3.png",
+    image: project3,
     tags: ["JavaScript", "React.js", "Next.js", "Inngest", "Gemini API", "Express.js", "MongoDB", "Render", "Vercel"],
     demoUrl: "https://calmly1-0-git-main-shashanks-projects-325217d1.vercel.app/",
     githubUrl: "https://github.com/Shashankmangal1/Calmly1.0",
