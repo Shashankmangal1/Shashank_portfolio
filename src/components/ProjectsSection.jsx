@@ -31,7 +31,7 @@ const projects = [
       "Discover how our AI-powered platform revolutionizes mental health support with cutting-edge technology and unwavering privacy protection.",
     image: project3,
     tags: ["JavaScript", "React.js", "Next.js", "Inngest", "Gemini API", "Express.js", "MongoDB", "Render", "Vercel"],
-    demoUrl: "hhttps://calmly1-0.vercel.app/",
+    demoUrl: "https://calmly1-0.vercel.app/",
     githubUrl: "https://github.com/Shashankmangal1/Calmly1.0",
   }
 ];
